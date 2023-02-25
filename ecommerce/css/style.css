@@ -1,0 +1,33 @@
+.head {
+    color: #FFFFFF;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border-cabecera-mobile);
+    position: absolute;
+}
+
+.aboutMe{
+	height: 400px;
+    margin: 60px;
+    padding: 40px;
+    display: flex;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #333333;
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
+}
+
+.container {
+    padding-right: 6%;
+    padding-left: 6%;
+}
